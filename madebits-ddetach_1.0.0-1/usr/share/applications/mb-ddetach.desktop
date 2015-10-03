@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Detach Disks
+Exec=/opt/madebits-ddetach_1.0.0/detach.sh
+Icon=drive-removable-media
+Terminal=false
+Type=Application
+Categories=GTK;System;
+
