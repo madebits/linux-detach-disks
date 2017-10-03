@@ -2,7 +2,7 @@
 
 # simple GUI tool to unmount and detach disks
 # dependencies: udisks, zenity
-# http://madebits.com
+# http://madebits
 
 title="Volume Helper: "
 gui="zenity --width=640 --height=480"
